@@ -4,8 +4,8 @@ Here are the associated scripts for analysis and plotting in Broell, F, JSP, McC
 
 The scripts run as numbered, and do the following:
 
-1) Apply exclusion criteria to certain temperature treatments, as described in the paper and supplemental materials.
-2) Uses regression and ANCOVA to analyze the use of the growing degree day (aka thermal time), and populates a table of these results. The main function (*table.pop*) is also used for the next script to plot the results.
+1) Apply exclusion criteria to certain temperature treatments and weight to length transformations, as described in the paper and supplemental materials.
+2) Uses regression and ANCOVA to analyze the use of the growing degree day versus calendar time, and populates a table of these results. The main function (*table.pop*) is also used for the next script to plot the results.
 3) Figures 2, 3 and 4.
 4) Residual checker for examining model residuals.
 
